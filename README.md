@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions, feel free to reach out:
 
 - **Email**: sreejaseethini@gmail.com
-- **GitHub**: [@yourusername](https://github.com/SreejaSeethini)
+- **GitHub**: [@SreejaSeethini](https://github.com/SreejaSeethini)
 
 Happy coding! ✨
 ```
